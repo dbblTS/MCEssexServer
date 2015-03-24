@@ -1,0 +1,390 @@
+2015-03-24 18:51:10 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 18:51:23 [INFO] Loading properties
+2015-03-24 18:51:23 [INFO] Default game type: SURVIVAL
+2015-03-24 18:51:23 [INFO] Generating keypair
+2015-03-24 18:51:23 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-24 18:51:26 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-24 18:51:28 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2015-03-24 18:51:28 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2015-03-24 18:51:28 [INFO] Preparing level "MC_Gang"
+2015-03-24 18:51:28 [INFO] Preparing start region for level 0
+2015-03-24 18:51:29 [INFO] Preparing spawn area: 12%
+2015-03-24 18:51:30 [INFO] Preparing spawn area: 21%
+2015-03-24 18:51:31 [INFO] Preparing spawn area: 35%
+2015-03-24 18:51:32 [INFO] Preparing spawn area: 45%
+2015-03-24 18:51:33 [INFO] Preparing spawn area: 61%
+2015-03-24 18:51:34 [INFO] Preparing spawn area: 77%
+2015-03-24 18:51:36 [INFO] Preparing spawn area: 88%
+2015-03-24 18:51:37 [INFO] Done (8.985s)! For help, type "help" or "?"
+2015-03-24 18:56:12 [INFO] An unknown error occurred while attempting to perform this command
+2015-03-24 18:56:17 [INFO] Stopping the server
+2015-03-24 18:56:17 [INFO] Stopping server
+2015-03-24 18:56:17 [INFO] Saving players
+2015-03-24 18:56:17 [INFO] Saving worlds
+2015-03-24 18:56:17 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-24 18:56:17 [INFO] Closing listening thread
+2015-03-24 18:56:17 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-24 18:56:18 [INFO] Stopping server
+2015-03-24 18:56:18 [INFO] Saving players
+2015-03-24 18:56:18 [INFO] Saving worlds
+2015-03-24 18:56:26 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 18:56:38 [INFO] Loading properties
+2015-03-24 18:56:38 [INFO] Default game type: SURVIVAL
+2015-03-24 18:56:38 [INFO] Generating keypair
+2015-03-24 18:56:38 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-24 18:56:41 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-24 18:56:43 [INFO] Preparing level "MC_Gang"
+2015-03-24 18:56:43 [INFO] Preparing start region for level 0
+2015-03-24 18:56:43 [INFO] Done (0.790s)! For help, type "help" or "?"
+2015-03-24 18:57:16 [INFO] --- Showing help page 1 of 12 (/help <page>) ---
+2015-03-24 18:57:16 [INFO] /ban <name> [reason ...]
+2015-03-24 18:57:16 [INFO] /ban-ip <address|name> [reason ...]
+2015-03-24 18:57:16 [INFO] /banlist [ips|players]
+2015-03-24 18:57:16 [INFO] /buildcraft help
+2015-03-24 18:57:16 [INFO] /ccdebug help
+2015-03-24 18:57:16 [INFO] /clear <player> [item] [data]
+2015-03-24 18:57:16 [INFO] bs version <modid>
+2015-03-24 18:58:37 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-24 18:58:40 [INFO] seansan123[/25.121.73.222:50164] logged in with entity id 210 at (65.5, 72.0, 255.5)
+2015-03-24 18:58:40 [INFO] seansan123 joined the game
+2015-03-24 19:02:35 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:02:35 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:07:43 [INFO] Unknown command. Try /help for a list of commands
+2015-03-24 19:07:47 [INFO] --- Showing help page 1 of 12 (/help <page>) ---
+2015-03-24 19:07:47 [INFO] /ban <name> [reason ...]
+2015-03-24 19:07:47 [INFO] /ban-ip <address|name> [reason ...]
+2015-03-24 19:07:47 [INFO] /banlist [ips|players]
+2015-03-24 19:07:47 [INFO] /buildcraft help
+2015-03-24 19:07:47 [INFO] /ccdebug help
+2015-03-24 19:07:47 [INFO] /clear <player> [item] [data]
+2015-03-24 19:07:47 [INFO] bs version <modid>
+2015-03-24 19:07:51 [INFO] --- Showing help page 2 of 12 (/help <page>) ---
+2015-03-24 19:07:51 [INFO] /cofh help
+2015-03-24 19:07:51 [INFO] /dd-??? ???
+2015-03-24 19:07:51 [INFO] /dd-create 
+2015-03-24 19:07:51 [INFO] /dd-deletelinks ???
+2015-03-24 19:07:51 [INFO] /dd-export <dungeon type> <dungeon name> <'open' | 'closed'> [weight] OR /dd-export <schematic name> override
+2015-03-24 19:07:51 [INFO] /dd-list <page>
+2015-03-24 19:07:51 [INFO] /dd-random <dungeon name>
+2015-03-24 19:07:53 [INFO] --- Showing help page 3 of 12 (/help <page>) ---
+2015-03-24 19:07:53 [INFO] /dd-resetdungeons 
+2015-03-24 19:07:53 [INFO] /dd-rift <dungeon name>
+2015-03-24 19:07:53 [INFO] /dd-tp <Player Name> <Dimension ID> <X Coord> <Y Coord> <Z Coord> OR /dd-tp <Player Name> <Dimension ID>
+2015-03-24 19:07:53 [INFO] /debug <start|stop>
+2015-03-24 19:07:53 [INFO] /defaultgamemode <mode>
+2015-03-24 19:07:53 [INFO] /deop <player>
+2015-03-24 19:07:53 [INFO] /difficulty <new difficulty>
+2015-03-24 19:07:56 [INFO] --- Showing help page 4 of 12 (/help <page>) ---
+2015-03-24 19:07:56 [INFO] /dimanc help
+2015-03-24 19:07:56 [INFO] /dimensiontp [player]
+2015-03-24 19:07:56 [INFO] 
+2015-03-24 19:07:56 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2015-03-24 19:07:56 [INFO] /enchant <player> <enchantment ID> [level]
+2015-03-24 19:07:56 [INFO] Use /forge <subcommand>. Subcommands are tps, track
+2015-03-24 19:07:56 [INFO] /freq help
+2015-03-24 19:08:00 [INFO] --- Showing help page 5 of 12 (/help <page>) ---
+2015-03-24 19:08:00 [INFO] /gamemode <mode> [player]
+2015-03-24 19:08:00 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2015-03-24 19:08:00 [INFO] /gcinv [save/restore/drop/clear] playername
+2015-03-24 19:08:00 [INFO] /gckeeploaded
+2015-03-24 19:08:00 [INFO] /give <player> <item> [amount] [data]
+2015-03-24 19:08:00 [INFO] /help [page|command name]
+2015-03-24 19:08:00 [INFO] /kick <player> [reason ...]
+2015-03-24 19:08:07 [INFO] --- Showing help page 6 of 12 (/help <page>) ---
+2015-03-24 19:08:07 [INFO] /kill
+2015-03-24 19:08:07 [INFO] /list
+2015-03-24 19:08:07 [INFO] /logisticspipes help
+2015-03-24 19:08:07 [INFO] /me <action ...>
+2015-03-24 19:08:07 [INFO] /myst-regenchunk [range] [dimId] [chunkX] [chunkZ]
+2015-03-24 19:08:07 [INFO] /nick <new nickname>
+2015-03-24 19:08:07 [INFO] om_config_s save <modid> OR
+om_config_s help <modid> <category> <name> OR
+om_config_s get <modid> <category> <name> OR
+om_config_s clear <modid> <category> <name> OR
+om_config_s set <modid> <category> <name> <value>... OR
+om_config_s append <modid> <category> <name> <value>... OR
+om_config_s remove <modid> <category> <name> <value>... OR
+om_config_s default <modid> <category> <name> <value>... OR
+
+2015-03-24 19:08:16 [INFO] --- Showing help page 7 of 12 (/help <page>) ---
+2015-03-24 19:08:16 [INFO] /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+2015-03-24 19:08:16 [INFO] /save-off
+2015-03-24 19:08:16 [INFO] /save-on
+2015-03-24 19:08:16 [INFO] /setidletimeout <Minutes until kick>
+2015-03-24 19:08:16 [INFO] /ssuninvite [player]
+2015-03-24 19:08:16 [INFO] 
+/modflag list
+/modflag setregion
+/modflag removeregion
+/modflag set
+2015-03-24 19:08:16 [INFO] /myst-agebook [dim]
+2015-03-24 19:08:38 [INFO] --- Showing help page 8 of 12 (/help <page>) ---
+2015-03-24 19:08:38 [INFO] /myst-create dimId
+2015-03-24 19:08:38 [INFO] /myst-permissions <player> <restrict|permit> <entry|depart> <all|dimid>
+2015-03-24 19:08:38 [INFO] /myst-twi [dim] [true|false]
+2015-03-24 19:08:38 [INFO] /op <player>
+2015-03-24 19:08:38 [INFO] /pardon <name>
+2015-03-24 19:08:38 [INFO] /pardon-ip <address>
+2015-03-24 19:08:38 [INFO] /prdebug {lagpart|debugpart|reading} {on|off}
+2015-03-24 19:08:41 [INFO] --- Showing help page 9 of 12 (/help <page>) ---
+2015-03-24 19:08:41 [INFO] /save-all
+2015-03-24 19:08:41 [INFO] /say <message ...>
+2015-03-24 19:08:41 [INFO] /scoreboard <objectives|players|teams>
+2015-03-24 19:08:41 [INFO] /seed
+2015-03-24 19:08:41 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2015-03-24 19:08:41 [INFO] /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+2015-03-24 19:08:41 [INFO] /ssinvite [player]
+2015-03-24 19:08:48 [INFO] --- Showing help page 10 of 12 (/help <page>) ---
+2015-03-24 19:08:48 [INFO] /stop
+2015-03-24 19:08:48 [INFO] /tell <player> <private message ...>
+2015-03-24 19:08:48 [INFO] /testfor <player>
+2015-03-24 19:08:48 [INFO] /time <set|add> <value>
+2015-03-24 19:08:48 [INFO] /time <set|add> <value> [dim]
+2015-03-24 19:08:48 [INFO] /toggledownfall
+2015-03-24 19:08:48 [INFO] /toggledownfall [dim]
+2015-03-24 19:08:50 [INFO] --- Showing help page 11 of 12 (/help <page>) ---
+2015-03-24 19:08:50 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2015-03-24 19:08:50 [INFO] /tps
+2015-03-24 19:08:50 [INFO] /tpx [subject:player] <target:player | target:dim [x y z]>
+2015-03-24 19:08:50 [INFO] /weather <clear/rain/thunder> [duration in seconds]
+2015-03-24 19:08:50 [INFO] /whitelist <on|off|list|add|remove|reload>
+2015-03-24 19:08:50 [INFO] /xp <amount> [player] OR /xp <amount>L [player]
+2015-03-24 19:08:50 [INFO] /xu_killitems
+2015-03-24 19:08:53 [INFO] --- Showing help page 12 of 12 (/help <page>) ---
+2015-03-24 19:08:53 [INFO] /xu_killliving
+2015-03-24 19:08:53 [INFO] /xu_killmobs
+2015-03-24 19:08:53 [INFO] /xu_killxp
+2015-03-24 19:09:05 [INFO] Unknown command. Try /help for a list of commands
+2015-03-24 19:13:06 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:13:06 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:23:38 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:23:38 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:24:50 [INFO] CalzUS822[/25.118.155.226:50473] logged in with entity id 44858 at (68.5, 72.0, 259.5)
+2015-03-24 19:24:50 [INFO] CalzUS822 joined the game
+2015-03-24 19:25:17 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:25:17 [INFO] CalzUS822 left the game
+2015-03-24 19:25:18 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:25:21 [INFO] CalzUS822[/25.118.155.226:50492] logged in with entity id 45870 at (67.2321037810804, 72.0, 259.0719738582191)
+2015-03-24 19:25:21 [INFO] CalzUS822 joined the game
+2015-03-24 19:25:48 [INFO] Teleported CalzUS822 to seansan123
+2015-03-24 19:26:06 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:26:06 [INFO] CalzUS822 left the game
+2015-03-24 19:26:07 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:26:10 [INFO] CalzUS822[/25.118.155.226:50500] logged in with entity id 47292 at (38.21528875474126, 89.0, 254.6101623090821)
+2015-03-24 19:26:10 [INFO] CalzUS822 joined the game
+2015-03-24 19:27:16 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:27:16 [INFO] CalzUS822 left the game
+2015-03-24 19:27:18 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:27:22 [INFO] CalzUS822[/25.118.155.226:50507] logged in with entity id 48786 at (38.21528875474126, 89.01799998283384, 254.6101623090821)
+2015-03-24 19:27:22 [INFO] CalzUS822 joined the game
+2015-03-24 19:27:37 [INFO] Teleported CalzUS822 to seansan123
+2015-03-24 19:27:54 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:27:54 [INFO] CalzUS822 left the game
+2015-03-24 19:27:57 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:28:01 [INFO] CalzUS822[/25.118.155.226:50515] logged in with entity id 49595 at (34.57437723375284, 93.0, 252.7292962905463)
+2015-03-24 19:28:01 [INFO] CalzUS822 joined the game
+2015-03-24 19:28:20 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:28:20 [INFO] CalzUS822 left the game
+2015-03-24 19:28:22 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:28:25 [INFO] CalzUS822[/25.118.155.226:50524] logged in with entity id 50197 at (34.57437723375284, 93.01799998283384, 252.7292962905463)
+2015-03-24 19:28:25 [INFO] CalzUS822 joined the game
+2015-03-24 19:28:39 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:28:39 [INFO] CalzUS822 left the game
+2015-03-24 19:31:29 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:31:33 [INFO] CalzUS822[/25.118.155.226:50735] logged in with entity id 55549 at (34.57437723375284, 92.93799996376033, 252.7292962905463)
+2015-03-24 19:31:33 [INFO] CalzUS822 joined the game
+2015-03-24 19:31:56 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:31:56 [INFO] CalzUS822 left the game
+2015-03-24 19:32:00 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:32:07 [INFO] CalzUS822[/25.118.155.226:50745] logged in with entity id 56466 at (35.013523413944796, 93.0, 252.1883854026168)
+2015-03-24 19:32:07 [INFO] CalzUS822 joined the game
+2015-03-24 19:32:19 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:32:19 [INFO] CalzUS822 left the game
+2015-03-24 19:32:38 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:32:42 [INFO] CalzUS822[/25.118.155.226:50748] logged in with entity id 57504 at (35.013523413944796, 93.01799998283384, 252.1883854026168)
+2015-03-24 19:32:42 [INFO] CalzUS822 joined the game
+2015-03-24 19:33:59 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:33:59 [INFO] CalzUS822 left the game
+2015-03-24 19:34:04 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:34:04 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:34:45 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:34:49 [INFO] CalzUS822[/25.118.155.226:50777] logged in with entity id 61323 at (35.013523413944796, 92.93799996376033, 252.1883854026168)
+2015-03-24 19:34:49 [INFO] CalzUS822 joined the game
+2015-03-24 19:36:48 [INFO] CalzUS822 lost connection: disconnect.genericReason
+2015-03-24 19:36:48 [INFO] CalzUS822 left the game
+2015-03-24 19:36:53 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:37:00 [INFO] CalzUS822[/25.118.155.226:50787] logged in with entity id 65482 at (35.013523413944796, 93.06952376134736, 252.1883854026168)
+2015-03-24 19:37:00 [INFO] CalzUS822 joined the game
+2015-03-24 19:37:14 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:37:14 [INFO] CalzUS822 left the game
+2015-03-24 19:37:28 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:37:32 [INFO] CalzUS822[/25.118.155.226:50790] logged in with entity id 66701 at (35.013523413944796, 92.98952374227385, 252.1883854026168)
+2015-03-24 19:37:32 [INFO] CalzUS822 joined the game
+2015-03-24 19:37:55 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:37:55 [INFO] CalzUS822 left the game
+2015-03-24 19:38:02 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:38:07 [INFO] CalzUS822[/25.118.155.226:50793] logged in with entity id 67616 at (35.013523413944796, 93.00752372510769, 252.1883854026168)
+2015-03-24 19:38:07 [INFO] CalzUS822 joined the game
+2015-03-24 19:38:17 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:38:17 [INFO] CalzUS822 left the game
+2015-03-24 19:44:25 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:44:25 [INFO] Set the time to 0 in all dimensions
+2015-03-24 19:47:00 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:47:04 [INFO] CalzUS822[/25.118.155.226:50964] logged in with entity id 83839 at (35.013523413944796, 93.02552370794153, 252.1883854026168)
+2015-03-24 19:47:04 [INFO] CalzUS822 joined the game
+2015-03-24 19:47:11 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:47:11 [INFO] CalzUS822 left the game
+2015-03-24 19:49:34 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:49:48 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:49:48 [INFO] CalzUS822 [/25.118.155.226:51240] lost connection
+2015-03-24 19:49:51 [INFO] CalzUS822[/25.118.155.226:51242] logged in with entity id 89744 at (35.013523413944796, 93.15704750552855, 252.1883854026168)
+2015-03-24 19:49:51 [INFO] CalzUS822 joined the game
+2015-03-24 19:50:00 [INFO] <seansan123> you are jumping
+2015-03-24 19:50:01 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:50:01 [INFO] CalzUS822 left the game
+2015-03-24 19:57:26 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:57:32 [INFO] CalzUS822[/25.118.155.226:49493] logged in with entity id 100414 at (35.013523413944796, 93.28857130311557, 252.1883854026168)
+2015-03-24 19:57:32 [INFO] CalzUS822 joined the game
+2015-03-24 19:57:41 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:57:41 [INFO] CalzUS822 left the game
+2015-03-24 19:57:43 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 19:57:54 [INFO] CalzUS822[/25.118.155.226:49503] logged in with entity id 100766 at (35.013523413944796, 93.04346460246394, 252.1883854026168)
+2015-03-24 19:57:54 [INFO] CalzUS822 joined the game
+2015-03-24 19:58:00 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 19:58:00 [INFO] CalzUS822 left the game
+2015-03-24 20:17:58 [INFO] Set the time to 0 in all dimensions
+2015-03-24 20:17:58 [INFO] Set the time to 0 in all dimensions
+2015-03-24 20:18:28 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:18:32 [INFO] CalzUS822[/25.118.155.226:50315] logged in with entity id 130727 at (35.013523413944796, 92.96346458339043, 252.1883854026168)
+2015-03-24 20:18:32 [INFO] CalzUS822 joined the game
+2015-03-24 20:18:57 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:18:57 [INFO] CalzUS822 left the game
+2015-03-24 20:23:43 [INFO] Set the time to 0 in all dimensions
+2015-03-24 20:23:43 [INFO] Set the time to 0 in all dimensions
+2015-03-24 20:27:13 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-24 20:27:13 [INFO] seansan123 left the game
+2015-03-24 20:27:18 [INFO] Unknown command. Try /help for a list of commands
+2015-03-24 20:27:22 [INFO] Unknown command. Try /help for a list of commands
+2015-03-24 20:27:25 [INFO] Stopping the server
+2015-03-24 20:27:26 [INFO] Stopping server
+2015-03-24 20:27:26 [INFO] Saving players
+2015-03-24 20:27:26 [INFO] Saving worlds
+2015-03-24 20:27:26 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-24 20:27:26 [INFO] Closing listening thread
+2015-03-24 20:27:26 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-24 20:27:26 [INFO] Stopping server
+2015-03-24 20:27:26 [INFO] Saving players
+2015-03-24 20:27:26 [INFO] Saving worlds
+2015-03-24 20:27:50 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 20:28:04 [INFO] Loading properties
+2015-03-24 20:28:04 [INFO] Default game type: SURVIVAL
+2015-03-24 20:28:04 [INFO] Generating keypair
+2015-03-24 20:28:04 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-24 20:28:06 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-24 20:28:08 [INFO] Preparing level "MC_Gang"
+2015-03-24 20:28:08 [INFO] Preparing start region for level 0
+2015-03-24 20:28:09 [INFO] Done (0.822s)! For help, type "help" or "?"
+2015-03-24 20:29:06 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-24 20:29:12 [INFO] Stopping the server
+2015-03-24 20:29:12 [INFO] Stopping server
+2015-03-24 20:29:12 [INFO] Saving players
+2015-03-24 20:29:12 [INFO] Saving worlds
+2015-03-24 20:29:12 [INFO] Closing listening thread
+2015-03-24 20:29:12 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-24 20:29:12 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-24 20:29:12 [INFO] Stopping server
+2015-03-24 20:29:12 [INFO] Saving players
+2015-03-24 20:29:12 [INFO] Saving worlds
+2015-03-24 20:29:58 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 20:30:12 [INFO] Loading properties
+2015-03-24 20:30:12 [INFO] Default game type: SURVIVAL
+2015-03-24 20:30:12 [INFO] Generating keypair
+2015-03-24 20:30:12 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-24 20:30:15 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-24 20:30:17 [INFO] Preparing level "MC_Gang"
+2015-03-24 20:30:17 [INFO] Preparing start region for level 0
+2015-03-24 20:30:18 [INFO] Done (0.836s)! For help, type "help" or "?"
+2015-03-24 20:33:36 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:33:41 [INFO] CalzUS822[/25.118.155.226:49292] logged in with entity id 290 at (35.013523413944796, 92.98146456622428, 252.1883854026168)
+2015-03-24 20:33:41 [INFO] CalzUS822 joined the game
+2015-03-24 20:33:51 [INFO] <CalzUS822> fuck
+2015-03-24 20:33:56 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:33:56 [INFO] CalzUS822 left the game
+2015-03-24 20:34:34 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:34:38 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:34:38 [INFO] biinniieboy [/25.140.173.218:49538] lost connection
+2015-03-24 20:35:02 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:35:05 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:05 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:35:09 [INFO] CalzUS822[/25.118.155.226:49432] logged in with entity id 1729 at (35.013523413944796, 93.1129883638113, 252.1883854026168)
+2015-03-24 20:35:09 [INFO] CalzUS822 joined the game
+2015-03-24 20:35:09 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:09 [INFO] biinniieboy [/25.140.173.218:49610] lost connection
+2015-03-24 20:35:12 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:21 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:35:21 [INFO] CalzUS822 left the game
+2015-03-24 20:35:25 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:35:34 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:34 [INFO] biinniieboy [/25.140.173.218:49613] lost connection
+2015-03-24 20:35:37 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:39 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:35:39 [INFO] biinniieboy [/25.140.173.218:49616] lost connection
+2015-03-24 20:35:45 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:37:39 [INFO] CalzUS822[/25.118.155.226:49436] logged in with entity id 2166 at (35.013523413944796, 93.03298834473779, 252.1883854026168)
+2015-03-24 20:37:39 [INFO] CalzUS822 joined the game
+2015-03-24 20:37:44 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:37:44 [INFO] CalzUS822 left the game
+2015-03-24 20:37:45 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:37:45 [INFO] biinniieboy [/25.140.173.218:49673] lost connection
+2015-03-24 20:37:48 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:37:50 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:37:52 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:37:52 [INFO] biinniieboy [/25.140.173.218:49678] lost connection
+2015-03-24 20:37:55 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:38:46 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:38:46 [INFO] biinniieboy [/25.140.173.218:49687] lost connection
+2015-03-24 20:38:49 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:38:51 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:38:55 [INFO] CalzUS822[/25.118.155.226:49439] logged in with entity id 2336 at (35.013523413944796, 92.95298832566428, 252.1883854026168)
+2015-03-24 20:38:55 [INFO] CalzUS822 joined the game
+2015-03-24 20:39:02 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:39:02 [INFO] CalzUS822 left the game
+2015-03-24 20:39:04 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:39:07 [INFO] CalzUS822[/25.118.155.226:49442] logged in with entity id 2555 at (35.013523413944796, 92.97098830849812, 252.1883854026168)
+2015-03-24 20:39:07 [INFO] CalzUS822 joined the game
+2015-03-24 20:39:16 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:39:16 [INFO] CalzUS822 left the game
+2015-03-24 20:40:04 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:40:04 [INFO] biinniieboy [/25.140.173.218:49773] lost connection
+2015-03-24 20:40:07 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-24 20:40:21 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:40:32 [INFO] CalzUS822[/25.118.155.226:49473] logged in with entity id 2742 at (35.013523413944796, 92.98898829133196, 252.1883854026168)
+2015-03-24 20:40:32 [INFO] CalzUS822 joined the game
+2015-03-24 20:40:50 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:40:50 [INFO] CalzUS822 left the game
+2015-03-24 20:40:51 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:40:55 [INFO] CalzUS822[/25.118.155.226:49481] logged in with entity id 2983 at (35.013523413944796, 93.0444328820546, 252.1883854026168)
+2015-03-24 20:40:55 [INFO] CalzUS822 joined the game
+2015-03-24 20:40:59 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:40:59 [INFO] CalzUS822 left the game
+2015-03-24 20:41:01 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:41:04 [INFO] CalzUS822[/25.118.155.226:49484] logged in with entity id 3108 at (35.013523413944796, 92.96443286298108, 252.1883854026168)
+2015-03-24 20:41:04 [INFO] CalzUS822 joined the game
+2015-03-24 20:41:08 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:41:08 [INFO] CalzUS822 left the game
+2015-03-24 20:41:10 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:41:15 [INFO] CalzUS822[/25.118.155.226:49487] logged in with entity id 3238 at (35.013523413944796, 92.98243284581493, 252.1883854026168)
+2015-03-24 20:41:15 [INFO] CalzUS822 joined the game
+2015-03-24 20:41:22 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-24 20:41:22 [INFO] CalzUS822 left the game
+2015-03-24 20:42:10 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-24 20:42:15 [INFO] Stopping the server
+2015-03-24 20:42:15 [INFO] Stopping server
+2015-03-24 20:42:15 [INFO] Saving players
+2015-03-24 20:42:15 [INFO] Saving worlds
+2015-03-24 20:42:15 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-24 20:42:15 [INFO] Closing listening thread
+2015-03-24 20:42:15 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-24 20:42:16 [INFO] Stopping server
+2015-03-24 20:42:16 [INFO] Saving players
+2015-03-24 20:42:16 [INFO] Saving worlds
