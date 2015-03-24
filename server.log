@@ -388,3 +388,21 @@ om_config_s default <modid> <category> <name> <value>... OR
 2015-03-24 20:42:16 [INFO] Stopping server
 2015-03-24 20:42:16 [INFO] Saving players
 2015-03-24 20:42:16 [INFO] Saving worlds
+2015-03-24 20:46:32 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 20:46:46 [INFO] Loading properties
+2015-03-24 20:46:46 [INFO] Default game type: SURVIVAL
+2015-03-24 20:46:46 [INFO] Generating keypair
+2015-03-24 20:46:46 [INFO] Starting Minecraft server on 25.140.173.218:25565
+2015-03-24 20:46:46 [WARNING] **** FAILED TO BIND TO PORT!
+2015-03-24 20:46:46 [WARNING] The exception was: {0}
+2015-03-24 20:46:46 [WARNING] Perhaps a server is already running on that port?
+2015-03-24 20:48:14 [INFO] An unknown error occurred while attempting to perform this command
+2015-03-24 20:48:50 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 20:49:03 [INFO] Loading properties
+2015-03-24 20:49:03 [INFO] Default game type: SURVIVAL
+2015-03-24 20:49:03 [INFO] Generating keypair
+2015-03-24 20:49:03 [INFO] Starting Minecraft server on 25.140.173.218:25565
+2015-03-24 20:49:03 [WARNING] **** FAILED TO BIND TO PORT!
+2015-03-24 20:49:03 [WARNING] The exception was: {0}
+2015-03-24 20:49:03 [WARNING] Perhaps a server is already running on that port?
+2015-03-24 20:49:37 [INFO] An unknown error occurred while attempting to perform this command
