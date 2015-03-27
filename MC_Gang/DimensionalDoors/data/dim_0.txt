@@ -13,7 +13,10 @@
     "z": 0
   },
   "Orientation": 0,
-  "ChildIDs": [],
+  "ChildIDs": [
+    2,
+    3
+  ],
   "Links": [
     {
       "source": {
@@ -28,6 +31,12 @@
         "z": -1
       },
       "tail": {
+        "destination": {
+          "x": -84,
+          "y": 64,
+          "z": 344,
+          "dimension": 2
+        },
         "linkType": 2
       },
       "orientation": 2,
@@ -110,6 +119,180 @@
         "x": 70,
         "y": 65,
         "z": -88,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -98,
+        "y": 66,
+        "z": 338,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -98,
+          "y": 64,
+          "z": 338,
+          "dimension": 2
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -160,
+        "y": 75,
+        "z": -214,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -179,
+        "y": 70,
+        "z": 689,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 210,
+        "y": 86,
+        "z": 655,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 372,
+        "y": 66,
+        "z": 153,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 274,
+          "y": 66,
+          "z": 158,
+          "dimension": 3
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 537,
+        "y": 64,
+        "z": 51,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 225,
+        "y": 70,
+        "z": -306,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 173,
+        "y": 91,
+        "z": -230,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 143,
+        "y": 96,
+        "z": -263,
         "dimension": 0
       },
       "parent": {

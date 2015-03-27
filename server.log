@@ -406,3 +406,406 @@ om_config_s default <modid> <category> <name> <value>... OR
 2015-03-24 20:49:03 [WARNING] The exception was: {0}
 2015-03-24 20:49:03 [WARNING] Perhaps a server is already running on that port?
 2015-03-24 20:49:37 [INFO] An unknown error occurred while attempting to perform this command
+2015-03-24 21:26:19 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 21:26:31 [INFO] Loading properties
+2015-03-24 21:26:31 [INFO] Default game type: SURVIVAL
+2015-03-24 21:26:31 [INFO] Generating keypair
+2015-03-24 21:26:31 [INFO] Starting Minecraft server on 25.140.173.218:25565
+2015-03-24 21:26:31 [WARNING] **** FAILED TO BIND TO PORT!
+2015-03-24 21:26:31 [WARNING] The exception was: {0}
+2015-03-24 21:26:31 [WARNING] Perhaps a server is already running on that port?
+2015-03-24 21:27:06 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 21:27:18 [INFO] Loading properties
+2015-03-24 21:27:18 [INFO] Default game type: SURVIVAL
+2015-03-24 21:27:18 [INFO] Generating keypair
+2015-03-24 21:27:18 [INFO] Starting Minecraft server on 25.140.173.218:25565
+2015-03-24 21:27:18 [WARNING] **** FAILED TO BIND TO PORT!
+2015-03-24 21:27:18 [WARNING] The exception was: {0}
+2015-03-24 21:27:18 [WARNING] Perhaps a server is already running on that port?
+2015-03-24 21:27:50 [INFO] Starting minecraft server version 1.6.4
+2015-03-24 21:28:02 [INFO] Loading properties
+2015-03-24 21:28:02 [INFO] Default game type: SURVIVAL
+2015-03-24 21:28:02 [INFO] Generating keypair
+2015-03-24 21:28:02 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-24 21:28:05 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-24 21:28:06 [INFO] Preparing level "MC_Gang"
+2015-03-24 21:28:07 [INFO] Preparing start region for level 0
+2015-03-24 21:28:07 [INFO] Done (0.916s)! For help, type "help" or "?"
+2015-03-24 21:28:39 [INFO] --- Showing help page 1 of 12 (/help <page>) ---
+2015-03-24 21:28:39 [INFO] /ban <name> [reason ...]
+2015-03-24 21:28:39 [INFO] /ban-ip <address|name> [reason ...]
+2015-03-24 21:28:39 [INFO] /banlist [ips|players]
+2015-03-24 21:28:39 [INFO] /dd-??? ???
+2015-03-24 21:28:39 [INFO] /dd-deletelinks ???
+2015-03-24 21:28:39 [INFO] /dd-random <dungeon name>
+2015-03-24 21:28:39 [INFO] /dd-resetdungeons 
+2015-03-24 21:30:10 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-24 21:31:35 [INFO] seansan123[/25.121.73.222:51412] logged in with entity id 417 at (2.4503765218413895, 67.0, 62.91836047917939)
+2015-03-24 21:31:35 [INFO] seansan123 joined the game
+2015-03-24 21:31:47 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-24 21:31:47 [INFO] seansan123 left the game
+2015-03-24 21:31:54 [INFO] Stopping the server
+2015-03-24 21:31:54 [INFO] Stopping server
+2015-03-24 21:31:54 [INFO] Saving players
+2015-03-24 21:31:54 [INFO] Saving worlds
+2015-03-24 21:31:54 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-24 21:31:54 [INFO] Closing listening thread
+2015-03-24 21:31:54 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-24 21:31:54 [INFO] Stopping server
+2015-03-24 21:31:54 [INFO] Saving players
+2015-03-24 21:31:54 [INFO] Saving worlds
+2015-03-25 16:18:55 [INFO] Starting minecraft server version 1.6.4
+2015-03-25 16:19:18 [INFO] Loading properties
+2015-03-25 16:19:18 [INFO] Default game type: SURVIVAL
+2015-03-25 16:19:18 [INFO] Generating keypair
+2015-03-25 16:19:18 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-25 16:19:18 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-03-25 16:19:18 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-03-25 16:19:18 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-03-25 16:19:18 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-03-25 16:19:21 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-25 16:19:24 [INFO] Preparing level "MC_Gang"
+2015-03-25 16:19:24 [INFO] Preparing start region for level 0
+2015-03-25 16:19:25 [INFO] Preparing spawn area: 48%
+2015-03-25 16:19:26 [INFO] Done (2.130s)! For help, type "help" or "?"
+2015-03-25 16:23:03 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-25 16:23:05 [INFO] seansan123[/25.121.73.222:53948] logged in with entity id 264 at (2.4503765218413895, 67.0, 62.91836047917939)
+2015-03-25 16:23:05 [INFO] seansan123 joined the game
+2015-03-25 16:29:03 [INFO] Set the time to 0 in all dimensions
+2015-03-25 16:29:03 [INFO] Set the time to 0 in all dimensions
+2015-03-25 16:40:31 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-25 16:40:36 [INFO] biinniieboy[/25.140.173.218:50454] logged in with entity id 25246 at (64.5, 72.0, 263.5)
+2015-03-25 16:40:36 [INFO] biinniieboy joined the game
+2015-03-25 16:40:43 [INFO] <seansan123> yay :D
+2015-03-25 16:41:16 [INFO] <biinniieboy> much lag... many wow
+2015-03-25 16:41:34 [INFO] <seansan123> I have no lag?
+2015-03-25 16:41:52 [INFO] <biinniieboy> only a little... its good now.
+2015-03-25 16:42:00 [INFO] <biinniieboy> ty...
+2015-03-25 16:42:08 [INFO] <biinniieboy> I should change my skin lol...
+2015-03-25 16:42:21 [INFO] <seansan123> hah :P
+2015-03-25 16:42:30 [INFO] <seansan123> I am a pumpkin man in disguise i gues
+2015-03-25 16:43:51 [INFO] <seansan123> skype?
+2015-03-25 16:44:14 [INFO] biinniieboy lost connection: disconnect.genericReason
+2015-03-25 16:44:14 [INFO] biinniieboy left the game
+2015-03-25 16:45:29 [INFO] Set the time to 0 in all dimensions
+2015-03-25 16:45:29 [INFO] Set the time to 0 in all dimensions
+2015-03-25 16:52:06 [WARNING] seansan123 moved wrongly!
+2015-03-25 16:52:59 [WARNING] seansan123 moved wrongly!
+2015-03-25 16:52:59 [WARNING] seansan123 moved too quickly! 106.0,0.9000000000000057,-329.0 (106.0, 0.9000000000000057, 329.0)
+2015-03-25 16:54:03 [INFO] seansan123 lost connection: disconnect.genericReason
+2015-03-25 16:54:03 [INFO] seansan123 left the game
+2015-03-25 17:01:28 [INFO] Stopping the server
+2015-03-25 17:01:28 [INFO] Stopping server
+2015-03-25 17:01:28 [INFO] Saving players
+2015-03-25 17:01:28 [INFO] Saving worlds
+2015-03-25 17:01:28 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-25 17:01:28 [INFO] Closing listening thread
+2015-03-25 17:01:28 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-25 17:01:28 [INFO] Stopping server
+2015-03-25 17:01:28 [INFO] Saving players
+2015-03-25 17:01:28 [INFO] Saving worlds
+2015-03-25 17:05:42 [INFO] Starting minecraft server version 1.6.4
+2015-03-25 17:05:54 [INFO] Loading properties
+2015-03-25 17:05:54 [INFO] Default game type: SURVIVAL
+2015-03-25 17:05:54 [INFO] Generating keypair
+2015-03-25 17:05:54 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-25 17:05:54 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-03-25 17:05:54 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-03-25 17:05:54 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-03-25 17:05:54 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-03-25 17:05:57 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-25 17:05:59 [INFO] Preparing level "MC_Gang"
+2015-03-25 17:05:59 [INFO] Preparing start region for level 0
+2015-03-25 17:06:00 [INFO] Done (0.834s)! For help, type "help" or "?"
+2015-03-25 17:06:03 [SEVERE] Reached end of stream for /25.140.173.218
+2015-03-25 17:06:07 [INFO] biinniieboy[/25.140.173.218:49699] logged in with entity id 247 at (35.493097645143806, 89.0, 253.31461768600417)
+2015-03-25 17:06:07 [INFO] biinniieboy joined the game
+2015-03-25 17:07:42 [INFO] [Server] you in?
+2015-03-25 17:07:51 [INFO] <biinniieboy> yes
+2015-03-25 17:07:56 [INFO] [Server] no lag?
+2015-03-25 17:08:02 [INFO] <biinniieboy> perfect
+2015-03-25 17:08:19 [INFO] [Server] sweet! Imma come in in a sec
+2015-03-25 17:08:39 [INFO] [Server] when I can get mc working -.-
+2015-03-25 17:09:20 [INFO] [Server] god damn thing wont even start -.-
+2015-03-25 17:11:04 [INFO] <biinniieboy> oops... got lost...
+2015-03-25 17:11:22 [INFO] [Server] haha, when I get on i can tp you to me
+2015-03-25 17:11:40 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:11:48 [INFO] [Server] ill reinstall the tekkit pack
+2015-03-25 17:13:52 [INFO] <biinniieboy> you can tp from server right?
+2015-03-25 17:14:03 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:14:14 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:14:16 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:15:12 [INFO] <biinniieboy> nevermind ill make my way later... going to build
+2015-03-25 17:15:27 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:15:53 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-25 17:15:56 [INFO] seansan123[/25.121.73.222:54997] logged in with entity id 22029 at (-154.1360727678444, 63.0, 386.37061864985213)
+2015-03-25 17:15:56 [INFO] seansan123 joined the game
+2015-03-25 17:16:18 [INFO] <seansan123> damn, I am lost as well now xP
+2015-03-25 17:16:20 [INFO] <biinniieboy> dinner brb... can you tp me to a safe place
+2015-03-25 17:16:25 [INFO] <seansan123> aight
+2015-03-25 17:22:28 [INFO] biinniieboy was slain by Zombie
+2015-03-25 17:24:04 [INFO] Set the time to 0 in all dimensions
+2015-03-25 17:24:04 [INFO] Set the time to 0 in all dimensions
+2015-03-25 17:30:43 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:30:48 [INFO] <biinniieboy> sad face
+2015-03-25 17:30:52 [INFO] Teleported biinniieboy to seansan123
+2015-03-25 17:30:59 [INFO] <seansan123> just got back to the hus
+2015-03-25 17:31:02 [INFO] <seansan123> got lost as well...
+2015-03-25 17:31:06 [INFO] <biinniieboy> lol
+2015-03-25 17:31:15 [INFO] <biinniieboy> I was only getting wood...
+2015-03-25 17:31:21 [INFO] <biinniieboy> off I go again...
+2015-03-25 17:31:24 [INFO] <seansan123> haha
+2015-03-25 17:31:38 [INFO] <biinniieboy> love the tree mod
+2015-03-25 17:31:42 [INFO] <seansan123> indeed
+2015-03-25 17:32:08 [INFO] <seansan123> gonna do laundry, but ill leave the server on
+2015-03-25 17:32:11 [INFO] <seansan123> cya
+2015-03-25 17:32:13 [INFO] <seansan123> oh
+2015-03-25 17:32:21 [INFO] <seansan123> come here!
+2015-03-25 17:32:33 [INFO] <seansan123> press m and set waypoint
+2015-03-25 17:32:50 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-25 17:32:50 [INFO] seansan123 left the game
+2015-03-25 17:54:19 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-25 17:54:21 [INFO] seansan123[/25.121.73.222:55071] logged in with entity id 92894 at (21.06211338349661, 86.0, 248.8683626423307)
+2015-03-25 17:54:21 [INFO] seansan123 joined the game
+2015-03-25 17:54:51 [INFO] <seansan123> done anything interesting?
+2015-03-25 17:54:57 [INFO] <seansan123> thahaha
+2015-03-25 17:55:05 [INFO] <seansan123> thought you were a zombie...
+2015-03-25 17:55:28 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:55:34 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:55:40 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 17:55:47 [INFO] <biinniieboy> just building...
+2015-03-25 17:56:08 [INFO] Set the time to 0 in all dimensions
+2015-03-25 17:56:08 [INFO] Set the time to 0 in all dimensions
+2015-03-25 17:56:23 [INFO] <seansan123> cant be bothered with mobs whilst building
+2015-03-25 17:56:50 [INFO] <seansan123> what happened to the glass in front of the entrance?
+2015-03-25 17:56:58 [INFO] <biinniieboy> errr...
+2015-03-25 17:57:00 [INFO] <seansan123> xD
+2015-03-25 17:57:23 [INFO] <seansan123> and the iron? i had 52?
+2015-03-25 18:01:20 [INFO] <biinniieboy> not the same.... ahhhhhh...
+2015-03-25 18:02:40 [INFO] biinniieboy hit the ground too hard
+2015-03-25 18:02:45 [INFO] <biinniieboy> oops...
+2015-03-25 18:02:46 [INFO] <seansan123> what
+2015-03-25 18:03:09 [INFO] <biinniieboy> g2g anyway... ill be back later... ill let you know when...
+2015-03-25 18:03:28 [INFO] <biinniieboy> jut pop in chest.
+2015-03-25 18:09:20 [INFO] <biinniieboy> tip...
+2015-03-25 18:09:28 [INFO] <biinniieboy> dont. dig. down.
+2015-03-25 18:09:33 [INFO] <seansan123> oh?
+2015-03-25 18:09:36 [INFO] <seansan123> how come?
+2015-03-25 18:09:40 [INFO] <biinniieboy> follow
+2015-03-25 18:10:09 [INFO] <seansan123> ooh :D
+2015-03-25 18:10:12 [INFO] <seansan123> nice :P
+2015-03-25 18:10:30 [INFO] <seansan123> I'll melt some cobblestone
+2015-03-25 18:10:52 [INFO] <biinniieboy> we can just make it our sex room
+2015-03-25 18:10:59 [INFO] <seansan123> I like de sex room
+2015-03-25 18:11:03 [INFO] <biinniieboy> lol
+2015-03-25 18:11:20 [INFO] <biinniieboy> okay, got to go... see you soon.
+2015-03-25 18:11:26 [INFO] <seansan123> aight, cya
+2015-03-25 18:11:35 [INFO] <biinniieboy> pssst.
+2015-03-25 18:11:44 [INFO] <biinniieboy> you will never find me.
+2015-03-25 18:12:00 [INFO] <seansan123> haha
+2015-03-25 18:12:08 [INFO] <biinniieboy> bye
+2015-03-25 18:12:10 [INFO] <seansan123> cya
+2015-03-25 18:12:11 [INFO] biinniieboy lost connection: disconnect.quitting
+2015-03-25 18:12:11 [INFO] biinniieboy left the game
+2015-03-25 18:12:27 [INFO] Set the time to 0 in all dimensions
+2015-03-25 18:12:27 [INFO] Set the time to 0 in all dimensions
+2015-03-25 18:19:37 [INFO] 'all' is not a valid number
+2015-03-25 18:19:41 [INFO] Changing to clear weather
+2015-03-25 18:22:11 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-25 18:22:11 [INFO] seansan123 left the game
+2015-03-25 18:28:30 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-25 18:28:32 [INFO] seansan123[/25.121.73.222:55121] logged in with entity id 134436 at (21.590649072566183, 86.0, 249.03997929325044)
+2015-03-25 18:28:32 [INFO] seansan123 joined the game
+2015-03-25 18:32:07 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 18:33:17 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 18:33:21 [INFO] CalzUS822[/25.118.155.226:49503] logged in with entity id 139441 at (35.013523413944796, 93.00043282864877, 252.1883854026168)
+2015-03-25 18:33:21 [INFO] CalzUS822 joined the game
+2015-03-25 18:33:27 [INFO] <seansan123> does it work!?=!
+2015-03-25 18:33:35 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 18:33:35 [INFO] CalzUS822 left the game
+2015-03-25 18:33:42 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 18:47:07 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 18:47:11 [INFO] CalzUS822[/25.118.155.226:49639] logged in with entity id 156845 at (35.013523413944796, 93.13195662623579, 252.1883854026168)
+2015-03-25 18:47:11 [INFO] CalzUS822 joined the game
+2015-03-25 18:47:19 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 18:47:19 [INFO] CalzUS822 left the game
+2015-03-25 19:02:33 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:02:36 [INFO] CalzUS822[/25.118.155.226:50271] logged in with entity id 176720 at (35.013523413944796, 92.95395660525493, 252.1883854026168)
+2015-03-25 19:02:36 [INFO] CalzUS822 joined the game
+2015-03-25 19:02:41 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:02:41 [INFO] CalzUS822 left the game
+2015-03-25 19:03:26 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:07:06 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:07:06 [INFO] CalzUS822 [/25.118.155.226:50931] lost connection
+2015-03-25 19:15:22 [INFO] CalzUS822[/25.118.155.226:50994] logged in with entity id 190388 at (64.5, 73.0, 259.5)
+2015-03-25 19:15:22 [INFO] CalzUS822 joined the game
+2015-03-25 19:15:22 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:15:22 [INFO] CalzUS822 lost connection: disconnect.endOfStream
+2015-03-25 19:15:22 [INFO] CalzUS822 left the game
+2015-03-25 19:15:22 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-25 19:15:22 [INFO] seansan123 left the game
+2015-03-25 19:15:27 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:15:32 [INFO] CalzUS822[/25.118.155.226:50997] logged in with entity id 190505 at (64.5, 73.0, 259.5)
+2015-03-25 19:15:32 [INFO] CalzUS822 joined the game
+2015-03-25 19:15:46 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:15:46 [INFO] CalzUS822 left the game
+2015-03-25 19:15:48 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:15:51 [INFO] CalzUS822[/25.118.155.226:51000] logged in with entity id 190870 at (64.5, 73.01799998283384, 259.5)
+2015-03-25 19:15:51 [INFO] CalzUS822 joined the game
+2015-03-25 19:16:02 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:16:02 [INFO] CalzUS822 left the game
+2015-03-25 19:16:12 [INFO] Stopping the server
+2015-03-25 19:16:12 [INFO] Stopping server
+2015-03-25 19:16:12 [INFO] Saving players
+2015-03-25 19:16:12 [INFO] Saving worlds
+2015-03-25 19:16:12 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-25 19:16:12 [INFO] Closing listening thread
+2015-03-25 19:16:12 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-25 19:16:12 [INFO] Stopping server
+2015-03-25 19:16:12 [INFO] Saving players
+2015-03-25 19:16:12 [INFO] Saving worlds
+2015-03-25 19:27:24 [INFO] Starting minecraft server version 1.6.4
+2015-03-25 19:27:38 [INFO] Loading properties
+2015-03-25 19:27:38 [INFO] Default game type: SURVIVAL
+2015-03-25 19:27:38 [INFO] Generating keypair
+2015-03-25 19:27:38 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-25 19:27:38 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-03-25 19:27:38 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-03-25 19:27:38 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-03-25 19:27:38 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-03-25 19:27:41 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-25 19:27:43 [INFO] Preparing level "MC_Gang"
+2015-03-25 19:27:43 [INFO] Preparing start region for level 0
+2015-03-25 19:27:44 [INFO] Done (0.949s)! For help, type "help" or "?"
+2015-03-25 19:28:31 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:28:36 [INFO] CalzUS822[/25.118.155.226:51701] logged in with entity id 323 at (65.5, 72.0, 255.5)
+2015-03-25 19:28:36 [INFO] CalzUS822 joined the game
+2015-03-25 19:28:42 [SEVERE] Reached end of stream for /25.121.73.222
+2015-03-25 19:28:43 [INFO] seansan123[/25.121.73.222:55177] logged in with entity id 671 at (34.38896922342884, 89.0, 253.21896937555192)
+2015-03-25 19:28:43 [INFO] seansan123 joined the game
+2015-03-25 19:30:11 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:30:11 [INFO] CalzUS822 left the game
+2015-03-25 19:30:13 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:30:17 [INFO] CalzUS822[/25.118.155.226:51716] logged in with entity id 2800 at (62.82133674035599, 73.0, 255.06071925757954)
+2015-03-25 19:30:17 [INFO] CalzUS822 joined the game
+2015-03-25 19:30:25 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:30:25 [INFO] CalzUS822 left the game
+2015-03-25 19:32:59 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:33:01 [INFO] CalzUS822[/25.118.155.226:51957] logged in with entity id 7920 at (62.82133674035599, 73.01799998283384, 255.06071925757954)
+2015-03-25 19:33:01 [INFO] CalzUS822 joined the game
+2015-03-25 19:33:17 [INFO] Unknown command. Try /help for a list of commands
+2015-03-25 19:33:29 [INFO] Teleported CalzUS822 to seansan123
+2015-03-25 19:33:46 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:33:46 [INFO] CalzUS822 left the game
+2015-03-25 19:34:06 [INFO] Set the time to 0 in all dimensions
+2015-03-25 19:34:06 [INFO] Set the time to 0 in all dimensions
+2015-03-25 19:42:18 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:42:28 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:42:29 [INFO] CalzUS822[/25.118.155.226:52163] logged in with entity id 20983 at (398.80384035372873, 64.0, -8.988021438939725)
+2015-03-25 19:42:29 [INFO] CalzUS822 joined the game
+2015-03-25 19:42:45 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:42:45 [INFO] CalzUS822 left the game
+2015-03-25 19:42:52 [INFO] /25.118.155.226:52157 lost connection
+2015-03-25 19:42:54 [INFO] /25.118.155.226:52158 lost connection
+2015-03-25 19:42:55 [INFO] /25.118.155.226:52159 lost connection
+2015-03-25 19:42:55 [INFO] /25.118.155.226:52160 lost connection
+2015-03-25 19:52:25 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:52:33 [INFO] CalzUS822[/25.118.155.226:52584] logged in with entity id 26922 at (60.5, 72.0, 258.5)
+2015-03-25 19:52:33 [INFO] CalzUS822 joined the game
+2015-03-25 19:53:23 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:53:23 [INFO] CalzUS822 lost connection: disconnect.endOfStream
+2015-03-25 19:53:23 [INFO] CalzUS822 left the game
+2015-03-25 19:53:29 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 19:53:40 [INFO] CalzUS822[/25.118.155.226:52592] logged in with entity id 28364 at (60.5, 72.0, 258.5)
+2015-03-25 19:53:40 [INFO] CalzUS822 joined the game
+2015-03-25 19:54:06 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 19:54:06 [INFO] CalzUS822 left the game
+2015-03-25 20:04:18 [INFO] Set the time to 0 in all dimensions
+2015-03-25 20:04:18 [INFO] Set the time to 0 in all dimensions
+2015-03-25 20:04:38 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:04:41 [INFO] CalzUS822[/25.118.155.226:52671] logged in with entity id 38445 at (65.5, 71.0, 251.5)
+2015-03-25 20:04:41 [INFO] CalzUS822 joined the game
+2015-03-25 20:09:17 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:09:17 [INFO] CalzUS822 lost connection: disconnect.endOfStream
+2015-03-25 20:09:17 [INFO] CalzUS822 left the game
+2015-03-25 20:09:25 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:10:35 [INFO] CalzUS822[/25.118.155.226:52678] logged in with entity id 48873 at (45.68726086684366, 70.0, 232.3500863961646)
+2015-03-25 20:10:35 [INFO] CalzUS822 joined the game
+2015-03-25 20:19:56 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:19:56 [INFO] CalzUS822 lost connection: disconnect.endOfStream
+2015-03-25 20:19:56 [INFO] CalzUS822 left the game
+2015-03-25 20:20:00 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:20:04 [INFO] CalzUS822[/25.118.155.226:52680] logged in with entity id 65407 at (111.4926742440583, 106.7531999805212, 436.3000000119209)
+2015-03-25 20:20:04 [INFO] CalzUS822 joined the game
+2015-03-25 20:20:13 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 20:20:13 [INFO] CalzUS822 left the game
+2015-03-25 20:21:49 [SEVERE] Reached end of stream for /25.118.155.226
+2015-03-25 20:30:05 [INFO] CalzUS822[/25.118.155.226:64144] logged in with entity id 79291 at (111.53313880300738, 107.0155550727022, 436.25980550272646)
+2015-03-25 20:30:05 [INFO] CalzUS822 joined the game
+2015-03-25 20:30:15 [INFO] CalzUS822 lost connection: disconnect.quitting
+2015-03-25 20:30:15 [INFO] CalzUS822 left the game
+2015-03-25 20:35:43 [INFO] seansan123 lost connection: disconnect.quitting
+2015-03-25 20:35:43 [INFO] seansan123 left the game
+2015-03-25 20:35:56 [INFO] Stopping the server
+2015-03-25 20:35:56 [INFO] Stopping server
+2015-03-25 20:35:56 [INFO] Saving players
+2015-03-25 20:35:56 [INFO] Saving worlds
+2015-03-25 20:35:56 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-25 20:35:56 [INFO] Closing listening thread
+2015-03-25 20:35:56 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-25 20:35:56 [INFO] Stopping server
+2015-03-25 20:35:56 [INFO] Saving players
+2015-03-25 20:35:56 [INFO] Saving worlds
+2015-03-27 09:14:32 [INFO] Starting minecraft server version 1.6.4
+2015-03-27 09:14:52 [INFO] Loading properties
+2015-03-27 09:14:52 [INFO] Default game type: SURVIVAL
+2015-03-27 09:14:52 [INFO] Generating keypair
+2015-03-27 09:14:53 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-27 09:14:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-03-27 09:14:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-03-27 09:14:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-03-27 09:14:53 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-03-27 09:14:55 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-27 09:14:57 [INFO] Preparing level "MC_Gang"
+2015-03-27 09:14:58 [INFO] Preparing start region for level 0
+2015-03-27 09:14:59 [INFO] Preparing spawn area: 41%
+2015-03-27 09:15:00 [INFO] Done (2.397s)! For help, type "help" or "?"
+2015-03-27 09:15:00 [INFO] Stopping the server
+2015-03-27 09:15:00 [INFO] Stopping the server
+2015-03-27 09:15:00 [INFO] Stopping the server
+2015-03-27 09:15:00 [INFO] Stopping server
+2015-03-27 09:15:00 [INFO] Saving players
+2015-03-27 09:15:00 [INFO] Saving worlds
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-27 09:15:00 [INFO] Closing listening thread
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/The End
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/PocketDim 3
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/Limbo
+2015-03-27 09:15:00 [INFO] Saving chunks for level 'MC_Gang'/Underdark
+2015-03-27 09:15:01 [INFO] Stopping server
+2015-03-27 09:15:01 [INFO] Saving players
+2015-03-27 09:15:01 [INFO] Saving worlds
+2015-03-27 09:15:28 [INFO] Starting minecraft server version 1.6.4
+2015-03-27 09:15:39 [INFO] Loading properties
+2015-03-27 09:15:39 [INFO] Default game type: SURVIVAL
+2015-03-27 09:15:39 [INFO] Generating keypair
+2015-03-27 09:15:40 [INFO] Starting Minecraft server on 25.121.73.222:25565
+2015-03-27 09:15:40 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-03-27 09:15:40 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-03-27 09:15:40 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-03-27 09:15:40 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-03-27 09:15:42 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-03-27 09:15:44 [INFO] Preparing level "MC_Gang"
+2015-03-27 09:15:44 [INFO] Preparing start region for level 0
+2015-03-27 09:15:44 [INFO] Done (0.808s)! For help, type "help" or "?"
+2015-03-27 13:28:56 [INFO] Stopping the server
+2015-03-27 13:28:56 [INFO] Stopping server
+2015-03-27 13:28:56 [INFO] Saving players
+2015-03-27 13:28:56 [INFO] Saving worlds
+2015-03-27 13:28:56 [INFO] Saving chunks for level 'MC_Gang'/Overworld
+2015-03-27 13:28:56 [INFO] Closing listening thread
+2015-03-27 13:28:56 [INFO] Saving chunks for level 'MC_Gang'/Nether
+2015-03-27 13:28:56 [INFO] Stopping server
+2015-03-27 13:28:56 [INFO] Saving players
+2015-03-27 13:28:56 [INFO] Saving worlds
